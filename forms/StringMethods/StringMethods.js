@@ -5,6 +5,7 @@ console.log(quoString)
 //b.use upper case and save it to a new variable named upperCaseString
 let upperCaseString = quoString.toUpperCase()
 console.log(upperCaseString)
+//
 
 //c.create a variable named authorString
 let authorString = "-Henry Ford"
